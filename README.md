@@ -12,11 +12,9 @@ You can <b>download</b> the latest release for <b>Windows 64 bits</b> [HERE](htt
 - must be run as Administrator.
 
 # Version History
-v1.1
-- added support for exception handling;
-- added confirmation and error messages.<br>
-v1.0
-- initial release.
+v1.1  - added support for exception handling;
+      - added confirmation and error messages.<br>
+v1.0  - initial release.
 
 # License
 Database Master is free software; see [LICENSE](https://github.com/DexterLagan/hosts-installer/blob/main/LICENSE) for more details.

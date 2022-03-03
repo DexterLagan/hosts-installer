@@ -12,7 +12,7 @@ You can <b>download</b> the latest release for <b>Windows 64 bits</b> [HERE](htt
 - must be run as Administrator.
 
 # Version History
-v1.1  - added support for exception handling;
+v1.1  - added support for exception handling;<br>
       - added confirmation and error messages.<br>
 v1.0  - initial release.
 

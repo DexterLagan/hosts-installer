@@ -14,7 +14,7 @@ You can <b>download</b> the latest release for <b>Windows 64 bits</b> [HERE](htt
 # Version History
 v1.1
 - added support for exception handling;
-- added confirmation and error messages.
+- added confirmation and error messages.<br>
 v1.0
 - initial release.
 
